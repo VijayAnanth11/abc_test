@@ -1,0 +1,36 @@
+
+
+.bg-light{
+    background: #00c9b7;
+    border-bottom: 3px solid #fff;
+}
+.bg-light > a{
+color: #fff;
+}
+.navbar-nav > a{
+    color: #fff;
+}
+.navbar-nav > a:hover{
+    text-decoration: underline;
+}
+img{
+    height: 400px;
+    vertical-align: middle;
+    border-style: none;
+}
+body{
+    background: #eee;
+}
+.card{
+    border-bottom: 3px solid;
+}
+
+footer{
+    height: 10px;
+    width: 100%;
+    margin-top: 60px;
+    background: #00c9b7;
+}
+h1{
+    color: red;
+}
